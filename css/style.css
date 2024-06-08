@@ -1,0 +1,24 @@
+#wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    
+}
+#wrapper button, #wrapper input{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(203, 175, 175);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#test{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    flex-direction: column;
+}
